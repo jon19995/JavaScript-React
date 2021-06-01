@@ -19,3 +19,19 @@ git config --global user.email jon-95@list.ru
 Подключение к гитхабу:
 
 1. git remote add origin https://github.com/jon19995/JavaScript-React.git  - remote add(удаленный репозиторий), origin - название, можно выбрать любую и ссылка на репозиторий
+
+Теперь локальный репозиторий на ПК связан с репозиторием на гитхабе.
+
+2. чтоб отправить репозиторий с ПК на гитхаб: git push -u origin master
+
+Чтобы скачать репозиторий с гитхаба себе на ПК:
+
+1.сначала выходим из нашей папки  -  cd ..
+
+2. Переходим в нужную папку - cd work
+
+3. Клонируем репозиторий: git clone https://github.com/jon19995/JavaScript-React.git project
+
+ссылка с гитхаба, project - название папки в которую будет скачан проект
+
+
