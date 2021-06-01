@@ -15,3 +15,7 @@ git config --global user.email jon-95@list.ru
 5.Чтоб посмотреть все сохраненные точки (коммиты) -  git log
 
 6. Чтоб посмотреть статус git, есть ли новые/измененные файлы и т.д.  -  git status
+
+Подключение к гитхабу:
+
+1. git remote add origin https://github.com/jon19995/JavaScript-React.git  - remote add(удаленный репозиторий), origin - название, можно выбрать любую и ссылка на репозиторий
